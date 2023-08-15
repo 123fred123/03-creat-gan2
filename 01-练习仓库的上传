@@ -2,3 +2,18 @@
 git clone 仓库地址(https://github.com/123fred123/03-creat-gan2.git) 
 
 2.上传到仓库的主分支
+gan2@DESKTOP-L6SLBVU:~/111/03-creat-gan2$ git add .
+gan2@DESKTOP-L6SLBVU:~/111/03-creat-gan2$ git commit -m "lx"
+[main bfe341d] lx
+ 1 file changed, 4 insertions(+)
+ create mode 100644 "01-\347\273\203\344\271\240\344\273\223\345\272\223\347\232\204\344\270\212\344\274\240"
+gan2@DESKTOP-L6SLBVU:~/111/03-creat-gan2$ git push origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 394 bytes | 394.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/123fred123/03-creat-gan2.git
+   057e4c1..bfe341d  main -> main
